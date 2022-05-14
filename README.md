@@ -1,9 +1,12 @@
 # Hellow Word ! 👋👋
 
 
-💻 Front-End
+💻 Front - End 
+##
 📚 Software Engineering Student at PUC-Minas
+##
 ✉ fariapedro939@gmail.com
+##
 
 <div align="center">
   <a href="https://github.com/pedrodecampos">
