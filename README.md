@@ -1,7 +1,4 @@
 # Hellow Word, Seja Bem-Vindo Ao Meu GitHub ! 👋👋
-
-
-💻 Front - End 
 ##
 📚 Software Engineering Student at PUC-Minas
 ##
