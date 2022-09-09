@@ -1,4 +1,4 @@
-# Hellow Word, Seja Bem-Vindo Ao Meu GitHub ! 👋👋
+# Hello Word, Seja Bem-Vindo Ao Meu GitHub ! 👋👋
 ##
 📚 Software Engineering Student at PUC-Minas
 ##
